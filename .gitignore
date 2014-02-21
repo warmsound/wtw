@@ -213,3 +213,15 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#############
+## Node
+#############
+node_modules/
+
+#############
+## wtw
+#############
+wtw.db
+datapoint-location-search-example/
+Results/
